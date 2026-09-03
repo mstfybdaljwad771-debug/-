@@ -1,0 +1,6 @@
+{
+  "name": "Mustafa & Mona — 365 Days",
+  "description": "تجربة سينمائية تفاعلية بمناسبة مرور سنة كاملة على حكاية مصطفى ومنى (365 Days — Our Story)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
